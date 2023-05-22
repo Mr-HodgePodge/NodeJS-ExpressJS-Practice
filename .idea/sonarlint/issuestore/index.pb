@@ -11,8 +11,6 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/e/2/e28d30cea3e92a308419fd4ef103fb310df22b3c,8\1\812ce60529457653f33e13b112d0e83876924d67
-P
- Task-Manager-App/public/main.css,1\3\13c83e999b29a8a511ff2cec8c189348d3ba34a4
 Å
 Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
 U
@@ -21,11 +19,5 @@ R
 "Task-Manager-App/package-lock.json,e\0\e057d4a0fb472e550445b5e0bb274f45c134e7d6
 w
 G.idea/sonarlint/issuestore/e/2/e28d30cea3e92a308419fd4ef103fb310df22b3c,6\1\61c095e93a2bc3e8fda9a1e014a027c7debb8454
-V
-&Task-Manager-App/public/browser-app.js,3\2\3203c6f1a52504ecb54003dc2a70f28920dd74a7
 T
 $Task-Manager-App/public/edit-task.js,f\f\ff9595e67b4b52f7dc0bcb13dc141d6fad8ccd42
-R
-"Task-Manager-App/public/index.html,1\c\1c91a891baccf44262e497f31396ad7f01cc91a4
-Q
-!Task-Manager-App/public/task.html,4\5\453981bf38b9bd930209a386636c1bacc260fef3
